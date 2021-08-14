@@ -1,4 +1,4 @@
-### kotlin-sample-app
+### Kotlin + Java -sample-app
 #### 1. trafficstats_and_googlemap(Kotlin)
 graph using mpandroidchart: https://weeklycoding.com/mpandroidchart/    
 <img src="https://user-images.githubusercontent.com/88701071/128821346-011aadd8-dcd2-4c4a-a95e-7e2ba4e6902a.png" width="30%" height="30%"/>    
