@@ -34,7 +34,7 @@ when you click the button, you can go to the next fragment(screen)
 <img src="https://user-images.githubusercontent.com/88701071/129449191-3ec93657-9fe2-41e4-a477-d63dbf049833.png" width="30%" height="30%"/>     
 ***
 
-#### 3. GridViewControl
+#### 3. GridViewControl(Kotlin)
 6x6 table.    
 you can add and delete rows and columns.    
 
